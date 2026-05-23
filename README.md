@@ -10,36 +10,11 @@ This repository is a custom fork maintained and adapted by Team Rakshak for Rasp
 
 ---
 
-## About the Fork
+## Overview
 
-This fork extends the original MAVProxy project with additional helper modules intended for:
+This repository contains the Team Rakshak MAVProxy communication stack used for UAV telemetry, onboard networking, and Ground Control Station communication.
 
-* Raspberry Pi telemetry bridges
-* Network management utilities
-* Ground station communication support
-* UAV field deployment workflows
-
-The goal of this fork is to simplify communication between onboard systems and the Ground Control Station during autonomous operations.
-
----
-
-## Added Modules
-
-### 1. mavproxy_hostapd.py
-
-Utility module for configuring and managing HostAPD based wireless access points on Raspberry Pi systems.
-
-Wiki:
-[https://github.com/Matchstic/MAVProxy/wiki/mavproxy_hostapd.py](https://github.com/Matchstic/MAVProxy/wiki/mavproxy_hostapd.py)
-
----
-
-### 2. mavproxy_fping.py
-
-Network monitoring helper module using `fping` for connection diagnostics and link health monitoring.
-
-Wiki:
-[https://github.com/Matchstic/MAVProxy/wiki/mavproxy_fping.py](https://github.com/Matchstic/MAVProxy/wiki/mavproxy_fping.py)
+The project is designed for Raspberry Pi based deployment systems and autonomous aerial robotics workflows.
 
 ---
 
@@ -92,16 +67,6 @@ MAVProxy is released under the GNU General Public License v3.0 or later.
 
 ---
 
-## Team Rakshak Integration
-
-This fork is actively used and adapted within Team Rakshak for UAV communication infrastructure, onboard networking utilities, and autonomous mission support systems.
-
-The repository serves as part of the software stack used in Team Rakshak robotics and aerial systems development workflows.
-
----
-
 ## Acknowledgements
 
-Original MAVProxy project by the ArduPilot community.
-
-This fork builds upon the open-source work contributed by the MAVLink and ArduPilot ecosystem.
+Developed and maintained for Team Rakshak UAV systems and robotics workflows.
