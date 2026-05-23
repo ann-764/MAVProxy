@@ -1,4 +1,4 @@
-# MAVProxy – Team Rakshak Fork
+# MAVProxy – Team Rakshak 
 
 [![MAVProxy Status](https://ci.appveyor.com/api/projects/status/github/Ardupilot/MAVProxy?branch=master\&svg=true)](https://ci.appveyor.com/project/tridge/MAVProxy/history)
 
